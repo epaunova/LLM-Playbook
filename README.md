@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="prompt-engineering-banner.png" alt="Prompt Engineering Banner" width="700"/>
+  <img src="./prompt-engineering-banner.png" alt="Prompt Engineering Banner" width="700"/>
 </p>
+
 
 # 🧠 LLM Prompt Engineering Library
 
