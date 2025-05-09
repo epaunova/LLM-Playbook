@@ -1,0 +1,2 @@
+Prompt ID,Prompt Text,Category,Expected Output Format,Intended LLM Use Case
+PM-01,"Act as a Senior Product Manager. Given a list of customer interviews, extract the top 5 recurring pain points and group them by theme.",User Research,List of themes with bullet points,Insight Extraction

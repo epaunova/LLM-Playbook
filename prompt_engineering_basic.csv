@@ -1,0 +1,2 @@
+Prompt ID,Prompt Task,Skill Trained,Difficulty,Example Input,Ideal Output,Tags
+PE-01,Improve the clarity of this vague prompt: 'Explain stuff about whales.',Clarity,Easy,Explain stuff about whales.,"Explain the biological characteristics, habitat, and behavior of whales in a structured list.","clarity, instruction design"

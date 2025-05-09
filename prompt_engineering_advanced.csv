@@ -1,0 +1,2 @@
+Prompt ID,Prompt Task,Skill Trained,Difficulty,Example Input,Ideal Output,Tags
+PE-A01,Design a chain-of-thought prompt that guides the model to identify logical fallacies in an argument.,"Chain-of-Thought, Logic",Advanced,"Argument: 'If we don't ban social media, everyone will become addicted. Therefore, social media must be banned.'",Step 1: Identify assumptions. Step 2: Evaluate logic. Step 3: Detect fallacy. → Fallacy: False dilemma (ignores other solutions).,"reasoning, logic, analysis"
